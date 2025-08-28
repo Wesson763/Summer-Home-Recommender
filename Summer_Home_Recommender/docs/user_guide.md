@@ -60,10 +60,10 @@ Instead of filling out forms, simply describe what you want:
 ## Managing Your Profile
 
 ### Edit Profile Information
-1. Click "✏️ Edit Profile" in the sidebar
+1. Click "Edit Profile" in the sidebar
 2. Update your name if needed
 3. Change your password (optional)
-4. Click "�� Save Changes"
+4. Click "Save Changes"
 
 ### Profile Features
 - **View Current Info**: See your account details
@@ -93,8 +93,8 @@ Instead of filling out forms, simply describe what you want:
 ## Navigation
 
 ### Main Interface
-- **�� Search Tab**: Form-based property search
-- **🤖 Chatbot Tab**: AI-powered location discovery
+- **Search Tab**: Form-based property search
+- **Chatbot Tab**: AI-powered location discovery
 - **Sidebar**: Profile info and navigation
 - **Header**: App title and main navigation
 
