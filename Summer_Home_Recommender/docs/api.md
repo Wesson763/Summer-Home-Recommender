@@ -1,4 +1,4 @@
-# 🔌 API Documentation - Summer Home Finder
+# API Documentation - Summer Home Finder
 
 ## Overview
 The Summer Home Finder application uses several internal APIs and external services for property recommendations and user management.
@@ -39,11 +39,6 @@ from app.services.chatbot import ChatbotService
 
 # Initialize service
 chatbot = ChatbotService(api_key="your_api_key")
-
-# Get location recommendation
-location_rec = chatbot.get_location_recommendation(
-    "I want a mountain retreat for 4 people, budget $200-300/night"
-)
 ```
 
 ### Authentication Service
